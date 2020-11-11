@@ -1,7 +1,7 @@
 html,
 body {
   background: black;
-  color: #72c2e2;
+  color: #fdfa4a;
   margin: 0;
   padding: 0;
   padding-top: 10px;
@@ -18,7 +18,7 @@ button {
   display: block;
   margin: 0 auto;
   border: none;
-  background: #eee34a;
+  background: #49f5ec;
   padding: 10px 20px;
   text-transform: uppercase;
 }
@@ -35,16 +35,16 @@ textarea {
   margin: 0 auto;
   outline: none;
   height: 200px;
-  background: #eee34a;
+  background: #49f5ec;
   padding: 10px;
 }
 
 textarea:disabled {
-  background-color: #eeec96;
+  background-color: #ebebeb;
   cursor: not-allowed;
 }
 
 button:disabled {
-  background-color: #eeec96;
+  background-color: #ebebeb;
   cursor: not-allowed;
 }
