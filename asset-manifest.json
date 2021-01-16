@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SpeedTypingGame-React/static/css/main.bbf04f76.chunk.css",
+    "main.js": "/SpeedTypingGame-React/static/js/main.47978b74.chunk.js",
+    "main.js.map": "/SpeedTypingGame-React/static/js/main.47978b74.chunk.js.map",
+    "runtime-main.js": "/SpeedTypingGame-React/static/js/runtime-main.261cedfa.js",
+    "runtime-main.js.map": "/SpeedTypingGame-React/static/js/runtime-main.261cedfa.js.map",
+    "static/js/2.356349d4.chunk.js": "/SpeedTypingGame-React/static/js/2.356349d4.chunk.js",
+    "static/js/2.356349d4.chunk.js.map": "/SpeedTypingGame-React/static/js/2.356349d4.chunk.js.map",
+    "index.html": "/SpeedTypingGame-React/index.html",
+    "static/css/main.bbf04f76.chunk.css.map": "/SpeedTypingGame-React/static/css/main.bbf04f76.chunk.css.map",
+    "static/js/2.356349d4.chunk.js.LICENSE.txt": "/SpeedTypingGame-React/static/js/2.356349d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.261cedfa.js",
+    "static/js/2.356349d4.chunk.js",
+    "static/css/main.bbf04f76.chunk.css",
+    "static/js/main.47978b74.chunk.js"
+  ]
+}
