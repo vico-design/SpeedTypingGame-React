@@ -32,4 +32,3 @@ function App() {
 }
 
 export default App;
-//   <button onClick={() => console.log(calculation(text))}>Start</button>
