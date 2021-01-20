@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# [Demo from the project](https://vico-design.github.io/SpeedTypingGame-React/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
